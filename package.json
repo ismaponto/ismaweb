@@ -14,6 +14,7 @@
         "@testing-library/user-event": "^13.5.0",
         "chokidar": "^3.5.3",
         "framer-motion": "^10.16.4",
+        "postcss-ordered-values": "^6.0.0",
         "react": "^18.2.0",
         "react-calendly": "^4.1.1",
         "react-countup": "^6.4.2",
@@ -51,6 +52,7 @@
     "devDependencies": {
         "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
         "autoprefixer": "^10.4.15",
+        "postcss": "^8.4.29",
         "react-scripts": "^5.0.1"
     }
 }
