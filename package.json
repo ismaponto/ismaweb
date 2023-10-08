@@ -1,6 +1,7 @@
 {
     "name": "ipweb",
     "version": "0.1.0",
+
     "private": true,
     "dependencies": {
         "@babel/plugin-transform-class-properties": "^7.22.5",
@@ -51,6 +52,7 @@
     "devDependencies": {
         "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
         "autoprefixer": "^10.4.15",
+        "postcss": "^8.4.29",
         "react-scripts": "^5.0.1"
     }
 }
