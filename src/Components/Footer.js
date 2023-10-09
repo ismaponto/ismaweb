@@ -7,7 +7,7 @@ function Footer() {
       <footer className="flex align-items-center rounded-lg shadow m-2 dark:bg-gray-800 p-8 ">
         <div className="mx-auto max-w-screen-xl p-4 sm:flex sm:items-center sm:justify-between">
           <span className="text-sm text-gray-500 pr-2 sm:text-center dark:text-gray-400">
-            © 2023 <a href="#Contacto" className="hover:underline">developed by </a> Ismael Pontoriero.
+            © 2023 <a href="#Contacto" className="hover:underline">developed by </a> IP Web Solutions.
           </span>
           <ul className="flex flex-row flex-wrap items-justify-center font-medium text-gray-500 dark:text-gray-400 sm:mt-0">
             <li className=" flex pr-2">
