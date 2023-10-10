@@ -34,12 +34,12 @@ function ListaEmail() {
   
   return ( <div className=" flex flex-col w-full items-center  md:flex-col">
  
-  <h2 className="mb-2 flex flex-col center bg-teal-100  justify-center w-full text-3xl  text-teal-400 text-bold dark:text-white h-36 ">
+  <h2 className="mb-2 flex flex-col center bg-teal-100 justify-center w-full text-3xl  text-teal-400 text-bold dark:text-white h-36 ">
 Queres estar al tanto de las ofertas?   </h2>
    
 <div className="flex flex-raw bg-repeat	justify-center"> 
 
-<div className="flex flex-col flex-wrap items-center md:flex-col p-9 w-full">
+<div className="flex flex-col flex-wrap items-center justify-center md:flex-col p-9 w-full">
       <div className="flex center">
         <img className="max-w-xs mb-8" src={compraweb} alt="personas" />
       </div>
