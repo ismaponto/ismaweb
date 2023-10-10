@@ -1,8 +1,8 @@
-import React, { Image } from "react";
+import React from "react";
 import compraweb from "./Paraquien/compraweb.svg"
 import { useForm, Controller } from 'react-hook-form';
 import ReCAPTCHA from "react-google-recaptcha";
-import imageUrl from "./background/leaves.webp"
+
 const countries = [
   'Seleccionar país',
   'Argentina',
